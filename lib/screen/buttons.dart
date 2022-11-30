@@ -19,7 +19,7 @@ class Buttons extends StatelessWidget {
   Widget build(BuildContext context) {
     return Row(
 
-      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
 
       children: [
 

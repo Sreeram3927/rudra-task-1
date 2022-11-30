@@ -40,7 +40,7 @@ class _MainScreenState extends State<MainScreen> {
   @override
   Widget build(BuildContext context) {
     return Column(
-
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
 
         Row(
